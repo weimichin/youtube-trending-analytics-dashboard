@@ -145,7 +145,7 @@
 除 Power BI `.pbix` 原始檔外，本專案另將分析成果轉製為 HTML 互動式網頁，使使用者不需安裝 Power BI 即可於瀏覽器查看主要 KPI、圖表與分析結果。
 
 **Live Demo：**  
-[View Interactive Dashboard](YOUR_GITHUB_PAGES_URL)
+[View Interactive Dashboard](https://weimichin.github.io/youtube-trending-analytics-dashboard/)
 
 ---
 
